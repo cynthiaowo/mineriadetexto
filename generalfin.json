@@ -47,7 +47,17 @@
         "remind": "like",
         "alike": "like",
         "apologise": "sorry",
-        "apologize": "sorry"
+        "apologize": "sorry",
+        "money": "finances",
+        "invest": "save",
+        "investment": "savings",
+        "debt": "liability",
+        "loan": "credit",
+        "budget": "plan",
+        "income": "earnings",
+        "expense": "cost",
+        "retirement": "future planning",
+        "insurance": "protection"
     },
 
     "tags":
@@ -107,11 +117,33 @@
             "is",
             "are",
             "was"
+        ],
+        "finance": [
+            "money",
+            "finances",
+            "invest",
+            "investment",
+            "debt",
+            "loan",
+            "budget",
+            "income",
+            "expense",
+            "retirement",
+            "insurance"
         ]
     },
     "memory_inputs": 
     [
-        "your"
+        "your",
+        "finances",
+        "investment",
+        "savings",
+        "budget",
+        "plan",
+        "earnings",
+        "cost",
+        "future planning",
+        "protection"
     ],
     "exit_inputs": 
     [
